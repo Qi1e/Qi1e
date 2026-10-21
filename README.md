@@ -16,7 +16,7 @@
 把「值得留意、但不值得为它开一个窗口」的实时信号，压缩成菜单栏里一条可扫视的 Pulse。核心是 Attention Router：用 salience 评分决定此刻哪条信号最该打断你。
 `AppKit` `NSStatusItem / NSPopover` `WKWebView` `NBA live API` · 课程合作项目，[原始仓库](https://github.com/lingcang728/GamePulse)
 
-**[raspbot-posture](https://github.com/Qi1e/raspbot-posture)** · 视觉追踪智能小车
+**[raspbot_posture](https://github.com/Qi1e/raspbot_posture)** · 视觉追踪智能小车
 树莓派 + 麦克纳姆轮 + MediaPipe Pose：人体追踪、底盘跟随与 3 类动作计数（深蹲 / 箭步蹲 / 波比跳），实测约 15 FPS、端到端延迟低于 100ms。
 `Python` `OpenCV` `MediaPipe` `比例控制 / 短脉冲` `串口` `I2C` · 4 人课程项目，本人负责全向追踪链路与日志模块
 
